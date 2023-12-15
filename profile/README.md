@@ -1,6 +1,6 @@
-## Drivel Game Engine 👋
+## Cog RTS Game 👋
 
-A minimalist game engine that fit your need.
+A minimalist real-time strategy game.
 
 <!--
 
